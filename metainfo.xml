@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="82B17404-6CC6-4CDE-978F-8A0E0A49CEED" version="0">
+	<info>
+		<title>Exam 9 Class 9</title>
+		<description/>
+	</info>
+	<files index="id20" thumbnail="id16" totalSize="2208802">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-4c177b7dc94f565d27eeae5de837da3bddeab9a5.png</file>
+		<file id="id10">data/images/img-58aadd151e03afad5ca0486539338cf123fce9a0.png</file>
+		<file id="id11">data/images/img-d7ffcb74d269fadaac73b1d9d257d57cb025b5c7.png</file>
+		<file id="id12">data/images/img-e5cf05d0dc8cf6b506e91c9f98c241226d10edfd.png</file>
+		<file id="id13">data/images/img-e7d1e0a2e5828b402cb9bf6e9672c9c9bbb0d3da.png</file>
+		<file id="id14">data/ismplayer/app_store2x.png</file>
+		<file id="id15">data/ismplayer/play.svg</file>
+		<file id="id16">data/ismplayer/preview.png</file>
+		<file id="id17">data/ismplayer/style.css</file>
+		<file id="id18">data/ismplayer/style_mini.css</file>
+		<file id="id19">data/player.js</file>
+		<file id="id20">index.html</file>
+		<file id="id21">ismplayer.html</file>
+		<file id="id22">preview.png</file>
+	</files>
+</presentation>
+
